@@ -1,5 +1,5 @@
 $( document ).ready(function() {
-	$.getJSON( "data/data.json", function( data ) {
+	$.getJSON( "data.json", function( data ) {
 		var userId = data.user;
 		$(".user-id").html(userId);
 	  	$.each( data.movies[0], function( key, val ) {

@@ -4,38 +4,38 @@
       {
         "title": "The Shawshank Redemption",
         "rating": "4.3",
-        "images": "../images/default-movie.jpg",
+        "images": "default-movie.jpg",
         "genre": "Action, Adventure, Fantasy"
       },
       {
         "title": "The Godfather",
         "rating": "2.3",
-        "images": "../images/default-movie.jpg",
+        "images": "default-movie.jpg",
         "genre": "Action, Adventure, Fantasy"
       },
       {
         "title": "The Godfather: Part II",
         "rating": "4.4",
-        "images": "../images/default-movie.jpg",
+        "images": "default-movie.jpg",
         "genre": "Action, Adventure, Fantasy"
       }
     ],
     "Thriller": [{
         "title": "Avatar",
         "rating": "4.3",
-        "images": "../images/default-movie.jpg",
+        "images": "default-movie.jpg",
         "genre": "Action, Adventure, Fantasy"
       },
       {
         "title": "Jack",
         "rating": "3.3",
-        "images": "../images/default-movie.jpg",
+        "images": "default-movie.jpg",
         "genre": "Action, Adventure, Fantasy"
       },
       {
         "title": "The Godfather: Part 3",
         "rating": "2.3",
-        "images": "../images/default-movie.jpg",
+        "images": "default-movie.jpg",
         "genre": "Action, Adventure, Fantasy"
       }
     ]
