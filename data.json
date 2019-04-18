@@ -2,43 +2,55 @@
   "movies": [{
     "Top recommended": [
       {
-        "title": "The Shawshank Redemption",
-        "rating": "4.3",
+        "title": "Good will Hunting",
+        "rating": "4.17",
         "images": "default-movie.jpg",
-        "genre": "Action, Adventure, Fantasy"
+        "genre": "Drama"
       },
       {
-        "title": "The Godfather",
-        "rating": "2.3",
+        "title": "Lethal Weapon",
+        "rating": "4.05",
         "images": "default-movie.jpg",
-        "genre": "Action, Adventure, Fantasy"
+        "genre": "Action, Comedy, Crime"
       },
       {
-        "title": "The Godfather: Part II",
-        "rating": "4.4",
+        "title": "Star Wars: Episode V",
+        "rating": "4.06",
         "images": "default-movie.jpg",
-        "genre": "Action, Adventure, Fantasy"
+        "genre": "Action, Adventure, Sci-fi"
+      },
+      {
+        "title": "Prizzi's Honor",
+        "rating": "4.01",
+        "images": "default-movie.jpg",
+        "genre": "Comedy, Drama, Romance"
       }
     ],
-    "Thriller": [{
-        "title": "Avatar",
-        "rating": "4.3",
+    "Other Recommended": [{
+        "title": "This is my father",
+        "rating": "3.71",
         "images": "default-movie.jpg",
-        "genre": "Action, Adventure, Fantasy"
+        "genre": "Drama, Romance"
       },
       {
-        "title": "Jack",
-        "rating": "3.3",
+        "title": "Say Anything...",
+        "rating": "3.96",
         "images": "default-movie.jpg",
-        "genre": "Action, Adventure, Fantasy"
+        "genre": "Comedy, Drama, Romance"
       },
       {
-        "title": "The Godfather: Part 3",
-        "rating": "2.3",
+        "title": "Gandhi",
+        "rating": "4.01",
         "images": "default-movie.jpg",
-        "genre": "Action, Adventure, Fantasy"
+        "genre": "Drama"
+      },
+      {
+        "title": "Broadcast News",
+        "rating": "3.50",
+        "images": "default-movie.jpg",
+        "genre": "Comedy, Drama, Romance"
       }
     ]
   }],
-  "user": "tt0111161"
+  "user": "1310"
 }
